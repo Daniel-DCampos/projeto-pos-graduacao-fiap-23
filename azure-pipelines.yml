@@ -10,7 +10,7 @@ resources:
 
 variables:
   # Container registry service connection established during pipeline creation
-  dockerRegistryServiceConnection: '17e20724-b181-44f0-b2a6-aac62a509383'
+  dockerRegistryServiceConnection: '051b7ac8-3c30-4cc6-8d48-c1815b994d6f'
   imageRepository: 'dm2learningui'
   containerRegistry: 'rgdanielmasa.azurecr.io'
   dockerfilePath: '**/Dockerfile'
